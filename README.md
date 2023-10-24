@@ -1,11 +1,11 @@
 
 
-First, run the development server:
+First, run the development server
 
-# npm run dev
+npm run dev:
 the card have different datetime
 
-# npm run build
+ npm run build: 
 the card have the same datetime
 
 
